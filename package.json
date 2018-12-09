@@ -1,0 +1,25 @@
+{
+  "name": "jndoc",
+  "version": "0.0.1",
+  "description": "making documentation for your nodeJs project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jn-lp/jnDoc.git"
+  },
+  "keywords": [
+    "doc",
+    "node",
+    "js",
+    "nodejs"
+  ],
+  "author": "Eugene Lepeico",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jn-lp/jnDoc/issues"
+  },
+  "homepage": "https://github.com/jn-lp/jnDoc#readme"
+}
